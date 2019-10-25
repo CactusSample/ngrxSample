@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { StoreModule } from '@ngrx/store';
+
 
 @Component({
   selector: 'app-root',
